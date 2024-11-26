@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Frantic.DMC/Snake8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -IC:/Users/Frantic.DMC/Snake8/build/SnakeGame_autogen/include -isystem C:/msys64/mingw64/include/QtCore -isystem C:/msys64/mingw64/share/qt5/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/QtGui -isystem C:/msys64/mingw64/include/QtWidgets -g -std=gnu++11 -o CMakeFiles\\SnakeGame.dir\\SnakeGame_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\Frantic.DMC\\Snake8\\build\\SnakeGame_autogen\\mocs_compilation.cpp",
+  "file": "C:\\Users\\Frantic.DMC\\Snake8\\build\\SnakeGame_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\SnakeGame.dir\\SnakeGame_autogen\\mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/Frantic.DMC/Snake8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -IC:/Users/Frantic.DMC/Snake8/build/SnakeGame_autogen/include -isystem C:/msys64/mingw64/include/QtCore -isystem C:/msys64/mingw64/share/qt5/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/QtGui -isystem C:/msys64/mingw64/include/QtWidgets -g -std=gnu++11 -o CMakeFiles\\SnakeGame.dir\\main.cpp.obj -c C:\\Users\\Frantic.DMC\\Snake8\\main.cpp",
+  "file": "C:\\Users\\Frantic.DMC\\Snake8\\main.cpp",
+  "output": "CMakeFiles\\SnakeGame.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Frantic.DMC/Snake8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -IC:/Users/Frantic.DMC/Snake8/build/SnakeGame_autogen/include -isystem C:/msys64/mingw64/include/QtCore -isystem C:/msys64/mingw64/share/qt5/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/QtGui -isystem C:/msys64/mingw64/include/QtWidgets -g -std=gnu++11 -o CMakeFiles\\SnakeGame.dir\\snake.cpp.obj -c C:\\Users\\Frantic.DMC\\Snake8\\snake.cpp",
+  "file": "C:\\Users\\Frantic.DMC\\Snake8\\snake.cpp",
+  "output": "CMakeFiles\\SnakeGame.dir\\snake.cpp.obj"
+}
+]
